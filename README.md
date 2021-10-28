@@ -3,4 +3,4 @@
 TECH: React, Redux, JavaScript, HTML, CSS, Tailwind CSS, Firebase, Figma, npm<br>
 Currently Learning: Jest
 
-Portfolio: https://ayarmkt.github.io/portfolio/<br>Twitter: https://twitter.com/ayarmkt_<br>Blog: https://ayatakamura.hashnode.dev/
+Portfolio: https://ayarmkt.github.io/portfolio/<br>Twitter: https://twitter.com/ayarmkt_ <br>Blog: https://ayatakamura.hashnode.dev/
