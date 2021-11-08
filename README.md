@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aya Takamura! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Brand Marketer-turned-Frontend Developer</h3>
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://ayarmkt.github.io/portfolio/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aya-t/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/ayarmkt_) [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" />](https://ayatakamura.hashnode.dev/)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://ayarmkt.github.io/portfolio/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aya-t/) [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" />](https://ayatakamura.hashnode.dev/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/ayarmkt_)
 
 
 ### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ayarmkt.visitor-badge)
