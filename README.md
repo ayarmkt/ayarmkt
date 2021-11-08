@@ -10,7 +10,6 @@ I adopt my user-centric mindset to create easy-to-use applications to deliver a 
 
 
 
-**Other Things About Me:**
 - 🔭 I'm currently working on **a team project on Chingu**
 - 👩‍💻 I'm currently learning **Jest, React Testing Library, and TypeScript**.
 - 💻 My main projects are available on my **[portfolio](https://ayarmkt.github.io/portfolio/)**
