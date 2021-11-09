@@ -15,7 +15,7 @@ I adopt my user-centric mindset to create easy-to-use applications to deliver a 
 - 💻 My main projects are available on my **[portfolio](https://ayarmkt.github.io/portfolio/)**
 - ✍️ I regularly write articles on **[Hashnode](https://ayatakamura.hashnode.dev/)**
 - ✨ Check out my **#100DaysOfCode** journey on my **[Twitter account](https://twitter.com/ayarmkt_)**
-- 📝 You can check out my resume **[here](https://ayarmkt.github.io/portfolio/static/media/CV_Aya%20Takamura.54a91be1.pdf)**
+- 📝 You can check out my resume **[here](https://ayarmkt.github.io/portfolio/static/media/CV_Aya%20Takamura.e56c50d3.pdf)**
 - 💬 Ask me about **React and JavaScript**
 
 <h3 align="left">Languages and Tools:</h3>
