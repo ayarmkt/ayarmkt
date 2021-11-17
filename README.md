@@ -24,9 +24,9 @@ I adopt my user-centric mindset to create easy-to-use applications to deliver a 
 
 <h3 align="left">Projects:</h3>
 
-- 💻 **[Bug Tracker](https://github.com/ayarmkt/bug-tracker)** - React (including React Context), Redux, CSS, Firebase, npm, Figma
-- 💻 **[Weather App](https://github.com/ayarmkt/react-weather-app)** - React (including React Context), CSS, OpenWeatherMap API, npm, Figma, React Testing Library, Netlify
-- 💻 **[JS Calculator](https://github.com/ayarmkt/JS-calculator)** - HTML, CSS, Vanilla JavaScript, Jest, GitHub Pages
+- 💻 **[Bug Tracker (personal project)](https://github.com/ayarmkt/bug-tracker)** - React (including React Context), Redux, CSS, Firebase, npm, Figma
+- 💻 **[Weather App (personal project)](https://github.com/ayarmkt/react-weather-app)** - React (including React Context), CSS, OpenWeatherMap API, npm, Figma, React Testing Library, Netlify
+- 💻 **[JS Calculator (personal project)](https://github.com/ayarmkt/JS-calculator)** - HTML, CSS, Vanilla JavaScript, Jest, GitHub Pages
 
 <h3 align="left">Stats:</h3>
 
