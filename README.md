@@ -10,7 +10,6 @@ I adopt my user-centric mindset to create easy-to-use applications to deliver a 
 
 
 
-- 🔭 I'm currently working on **a team project on Chingu**
 - 👩‍💻 I'm currently learning **TypeScript and Sass**.
 - 💻 My main projects are available on my **[portfolio](https://ayarmkt.github.io/portfolio/)**
 - ✍️ I regularly write articles on **[Hashnode](https://ayatakamura.hashnode.dev/)**
